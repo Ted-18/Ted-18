@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ted-18&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=Ted-18&langs_count=8)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ted-18&count_private=true)
+![Blop Blop](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExandnMDdrcTZiMHRxdjkyNDQ2ZGh5c2FxNTg2aHVxdmRxY2E3M3FtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gc4cVHyHJLI0y11MPr/giphy.gif)
